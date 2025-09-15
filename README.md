@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Raj Patel</h1>
 <h3 align="center">I am an undergraduate college student studying Computer Science at Texas Tech!</h3>
 
-- ❗ I’m currently working on **Neural Networks and OS/Kernel management**
+- ❗ I’m currently working on **Neural Networks and Computer Networks**
 
 - 🔍 I'm currently searching for **internship opportunities**
 
