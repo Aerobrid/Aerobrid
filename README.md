@@ -4,7 +4,7 @@
 </h3>
 
 <h3 align="center">
-  ❗ I’m currently working on <b>Neural Networks and Computer Networks</b><br><br>
+  ❗ I’m currently working on <b>Devops and Mlops</b><br><br>
   🔍 I'm currently searching for <b>internship opportunities</b><br><br>
   📫 How to reach me: <b>raj721patel@gmail.com</b>
 </h3>
