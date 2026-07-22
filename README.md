@@ -5,7 +5,7 @@
 
 <h3 align="center">
   🔍 I'm currently searching for <b>internship opportunities</b><br><br>
-  📫 How to reach me: <b>raj721patel@gmail.com</b>
+  📫 How to reach me: <b>raj4021patel@gmail.com</b>
 </h3>
 
 <h3 align="left">Connect with me:</h3>
