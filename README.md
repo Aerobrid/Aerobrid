@@ -4,7 +4,6 @@
 </h3>
 
 <h3 align="center">
-  ❗ I’m currently working on <b>Machine Learning and MLops</b><br><br>
   🔍 I'm currently searching for <b>internship opportunities</b><br><br>
   📫 How to reach me: <b>raj721patel@gmail.com</b>
 </h3>
